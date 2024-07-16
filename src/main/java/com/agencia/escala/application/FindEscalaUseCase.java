@@ -12,6 +12,7 @@ public class FindEscalaUseCase {
 
     public Escala execute (int id){
         return escalaService.findEscala(id);
+        //aaaa//
     }
 
     
